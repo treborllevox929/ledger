@@ -1,0 +1,4 @@
+services:
+  ledger: 
+    build:
+      context: .
